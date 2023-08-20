@@ -1,0 +1,43 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #F5F5F5;
+}
+
+header {
+  background-color: #FFA726;
+  text-align: center;
+  padding: 2rem;
+  color: white;
+}
+
+main {
+  padding: 3rem;
+  text-align: center;
+}
+
+.content {
+  margin-bottom: 3rem;
+}
+
+.prayerButton {
+  background-color: #FF7043;
+  color: white;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.prayerButton:hover {
+  background-color: #FF5722;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
